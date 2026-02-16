@@ -2,4 +2,6 @@ git init/
 git status/
 git add/
 git commit -m"Chinazes"
-git log
+git log 
+git remote -v
+git push origin master
